@@ -32,7 +32,7 @@
    ```bash
    python main.py
    ```
-6. 根据提示操作
+6. 根据提示操作<br>
    ![demo](demo.png)
 
 ## 文件目录说明
@@ -64,4 +64,4 @@ BUAAkang, aka Litang Lynx
 Wechat: kyx18234267050
 
 ## 版权说明
-该项目签署了MIT版权许可，详情参阅LICENSE.txt。
+该项目签署了MIT版权许可，详情参阅 LICENSE
